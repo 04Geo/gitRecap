@@ -3,6 +3,6 @@ public class Main {
         int a;
         int b;
         int c;
-        int d;
+        int d = 0;
     }
 }
